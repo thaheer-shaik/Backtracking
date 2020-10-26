@@ -1,0 +1,41 @@
+.code1{
+
+    color:maroon;
+    font-size: 17px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.bold1{
+
+    font-weight: bold;
+}
+#italic1
+{
+    font-style: italic;
+}
+#black1
+{
+   font-size: 17px;
+   font-family: Arial, Helvetica, sans-serif; 
+}
+.table1,.row1 {
+    
+    border:1px solid black;
+    margin-left: auto;
+    margin-right: auto;
+    height: 26px;
+}
+.table2{
+    border: 1px solid black;
+    margin-left: auto;
+    margin-right: auto;
+    background-color:#C9C5C4 ;
+}
+#border1{
+    border-right:1px solid black;
+}
+#tablebg{
+    background-color: #C9C5C4;
+}
+#bold2{
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+}
